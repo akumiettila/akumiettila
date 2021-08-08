@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akumiettila
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning web software development
+- 📫 How to reach me: aku.miettila@aalto.fi
